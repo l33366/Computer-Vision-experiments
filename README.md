@@ -1,2 +1,2 @@
 # Computer-Vision-experiments
-Includes all the basic assignments on image processing computer vision
+Includes all the basic experiments on image processing computer vision
